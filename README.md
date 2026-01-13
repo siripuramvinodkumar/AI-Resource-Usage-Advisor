@@ -56,3 +56,8 @@ Conceptual and educational prototype created for learning and demonstration purp
 📜 License
 
 This project is intended for academic and educational use.
+
+## 🔗 Project Links
+- GitHub Repository: https://github.com/siripuramvinodkumar/AI-Resource-Usage-Advisor
+- Live Demo (Hosted): https://ai-resource-usage-advisor.onrender.com
+
